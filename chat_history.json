@@ -1,0 +1,88 @@
+{
+  "619655a6-91e5-46a0-9732-d03a6e7a106f": {
+    "title": "what is ai",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ai"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Please upload your documents and click **Process Documents** in the sidebar before asking questions."
+      }
+    ]
+  },
+  "67d85489-8560-423a-aceb-0d867c3909db": {
+    "title": "what is ai",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ai"
+      },
+      {
+        "role": "assistant",
+        "content": "Sorry, an error occurred while generating the answer. Please check the logs."
+      }
+    ]
+  },
+  "4cac252d-49e6-4e68-8ddc-a26affe8e5bb": {
+    "title": "what is ai",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ai"
+      },
+      {
+        "role": "assistant",
+        "content": "Sorry, an error occurred while generating the answer. Please check the logs."
+      }
+    ]
+  },
+  "a12b4e30-ad8c-4336-a500-505cfc028127": {
+    "title": "what is ai",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ai"
+      },
+      {
+        "role": "assistant",
+        "content": "Sorry, an error occurred while generating the answer. Please check the logs."
+      }
+    ]
+  },
+  "dc227389-1c27-4a7c-bc1e-da2f462f4264": {
+    "title": "what is ai",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ai"
+      },
+      {
+        "role": "assistant",
+        "content": "Sorry, an error occurred while generating the answer. Please check the logs."
+      }
+    ]
+  },
+  "004c5cdb-0725-4c6c-a1e1-681034a98d18": {
+    "title": "what is ai",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ai"
+      },
+      {
+        "role": "assistant",
+        "content": "Artificial Intelligence (AI) is a branch of computer science dedicated to creating systems that can perform tasks typically requiring human intelligence. These tasks encompass learning, reasoning, perception, language understanding, and decision-making. AI can be categorized into different types, such as Narrow AI, which is designed for a specific task, like spam detection.\n\nGenerative AI (GenAI) is a specialized subset of AI that focuses on creating new content, such as text, images, audio, video, and code, by learning patterns from data. While AI generally emphasizes analyzing, predicting, and making decisions, GenAI excels in generating new and creative outputs.\n\nIn practical applications, AI and GenAI are used to identify key patterns in various datasets, such as pricing, occupancy, and host behavior, to derive actionable business insights. Professionals in this field often develop skills in machine learning, deep learning, computer vision, natural language processing, data science, robotic process automation, and GenAI, with a strong focus on real-world applications and prompt engineering."
+      },
+      {
+        "role": "user",
+        "content": "ai vs gen ai"
+      },
+      {
+        "role": "assistant",
+        "content": "Artificial Intelligence (AI) and Generative AI (GenAI) are both crucial fields within computer science, but they have distinct focuses and applications.\n\n**Artificial Intelligence (AI)** is a broad field of computer science that aims to create systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, perception, language understanding, and decision-making. AI encompasses a wide range of techniques and applications, such as machine learning, deep learning, computer vision, and natural language processing.\n\n**Generative AI (GenAI)**, on the other hand, is a specialized subset of AI that focuses on creating new content. This content can include text, images, audio, video, and code. GenAI systems learn patterns from existing data and use this knowledge to generate new, original content. For example, a GenAI model might be trained on a large dataset of text to generate coherent and contextually relevant sentences or paragraphs.\n\nIn summary, while AI is a broad field that includes various subfields and applications, GenAI is a specialized area within AI that focuses on content generation. AI systems are generally used for analyzing, predicting, and making decisions, whereas GenAI systems are specifically designed to create new and innovative content."
+      }
+    ]
+  }
+}

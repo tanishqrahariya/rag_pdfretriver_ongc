@@ -1,0 +1,79 @@
+# ==============================
+# LangChain
+# ==============================
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-google-genai
+
+# ==============================
+# Vector Database
+# ==============================
+
+chromadb
+
+# ==============================
+# Embeddings & Reranking
+# ==============================
+
+sentence-transformers
+transformers
+torch
+
+# ==============================
+# Hugging Face (for embeddings & reranker)
+# ==============================
+
+huggingface-hub
+
+# ==============================
+# Google Gemini (LLM)
+# ==============================
+
+google-generativeai
+
+# ==============================
+# PDF Processing
+# ==============================
+
+pymupdf
+pdfplumber
+pillow
+
+# ==============================
+# OCR
+# ==============================
+
+easyocr
+opencv-python
+
+# ==============================
+# Retrieval
+# ==============================
+
+rank-bm25
+
+# ==============================
+# Utilities
+# ==============================
+
+python-dotenv
+numpy
+pandas
+tqdm
+
+# ==============================
+# UI
+# ==============================
+
+streamlit
+
+# ==============================
+# Validation
+# ==============================
+
+pydantic
